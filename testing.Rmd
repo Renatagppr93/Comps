@@ -49,6 +49,8 @@ keywords          : "keywords"
 wordcount         : "X"
 
 bibliography      : ["r-references.bib"]
+nocite: | 
+  '@*'
 
 floatsintext      : no
 figurelist        : no
