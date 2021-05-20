@@ -48,7 +48,7 @@ abstract: |
 keywords          : "keywords"
 wordcount         : "X"
 
-bibliography      : ["r-references.bib"]
+bibliography      : ["r-references.bib", "Comps.bib", "remote.bib"]
 nocite: | 
   '@*'
 
