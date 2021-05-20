@@ -1,9 +1,9 @@
 ---
-title             : "The title"
+title             : "The Psychological Experience of Remote Work: exploring the relaitonship between remote work characteristics and employee wellbeing"
 shorttitle        : "Title"
 
 author: 
-  - name          : "First Author"
+  - name          : "Renata Garcia Prieto Palaios Roji"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
     address       : "Postal address"
